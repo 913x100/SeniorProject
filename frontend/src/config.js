@@ -1,6 +1,6 @@
 const config = {
-  appUrl: "https://localhost:8080",
-  apiUrl: "http://localhost:8083/api",
+  appUrl: "https://jongme.mountz.dev",
+  apiUrl: "http://jongme.mountz.dev/api",
   fb: {
     appId: "2203330309960432",
     redirectUri:
