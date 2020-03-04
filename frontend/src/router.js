@@ -36,7 +36,7 @@ export default new Router({
           path: "/",
           component: () => import("@/pages/Dashboard/Dashboard")
         }
-      ]
+      ],
       beforeEnter: ifAuthenicated
     },
     {
